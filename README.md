@@ -1,2 +1,2 @@
-Blogs, CRUD operation with Ruby on rails. 
+CRUD operation with Ruby on rails. 
 
