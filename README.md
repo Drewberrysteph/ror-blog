@@ -1,2 +1,2 @@
-CRUD operation with Ruby on rails. 
+CRUD operation in Ruby on rails. 
 
