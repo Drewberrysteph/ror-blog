@@ -1,3 +1,3 @@
 # README
-CRUD 
-# ror-blog
+Blogs, CRUD operation with Ruby on rails. 
+
