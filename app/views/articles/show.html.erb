@@ -1,0 +1,5 @@
+<h1>Title: <%= @article.title %></h1>
+<h1>Description: <%= @article.description %></h1>
+
+<%= link_to 'Home', articles_path %>
+<%= button_to "Delete my account", article_path(@article.id), form: { data: { turbo_confirm: "Are you sure?" } }, method: :delete %>
